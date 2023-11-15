@@ -124,3 +124,12 @@ apps:
     description: "Tracetest uses your existing OpenTelemetry traces to power trace-based testing with assertions against your trace data at every point of the request transaction."
     categories:
       - Testing
+
+  - name: prometheus
+    displayName: Prometheus
+    website: "https://github.com/prometheus/prometheus"
+    imageUrl: "https://prometheus.io/assets/favicons/android-chrome-192x192.png"
+    description: "The Prometheus monitoring system and time series database."
+    categories:
+      - Observability
+      - Monitoring
